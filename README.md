@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me
 
 <!--
 **estefaniavazquez/estefaniavazquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello! I am Estefania Vazquez. I am currently studying software engineering at McGill University. I am in my 4th year of studies and hope to graduate in the Summer of 2026. 
+
+Some topics I have enjoyed exploring are the Network Layer, Data Governance, and Cloud Infrastructure.
+
+I hope to soon dive into Machine Learning, Data Science, and Cybersecurity.
+
+
+## Academic Projects
+
+
+## Internships
