@@ -1,23 +1,23 @@
-## 👋 About Me
+## About Me
 
 Hello! I’m **Estefania Vazquez**, a fourth-year Software Engineering student at **McGill University**, expecting to graduate in **Summer 2026**.
 
 Some areas that have particularly piqued my interest include:
 - 🌐 **Network Layer**
-- 📊 **Data Governance**
+- 📑 **Data Governance**
 - ☁️ **Cloud Infrastructure**
 
 In the near future, I’m excited to dive deeper into:
 - 🤖 **Machine Learning**
-- 📈 **Data Science**
+- 🧮 **Data Science**
 - 🔐 **Cybersecurity**
   
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 Here is a snapshot of the tools and technologies I have worked with throughout my academic and professional journey:
 
-### 💻 Languages
+### Languages
 - **Java** – Backend web development  
 - **Python** – Scripting, ML experiments, web development, embedded systems  
 - **C** – OS simulation  
@@ -33,13 +33,13 @@ Here is a snapshot of the tools and technologies I have worked with throughout m
 - **Scala** – Data manipulation and database integration  
 - **JSON** – REST API requests/responses data
 
-### ⚙️ Frameworks & Technologies
+### Frameworks & Technologies
 - **Spring MVC**, **Flask**, **Node.js**, **JavaFX**, **Vue.js** – Web and UI frameworks  
 - **Cucumber**, **Behave** – Behaviour-driven testing  
 - **Redux** – State management  
 - **Gradle** – Build automation
 
-### 📚 Libraries & Tools
+### Libraries & Tools
 - **JUnit** – Unit testing
 - **Mockito** – Mock objects and data
 - **Axios**, **Requests** – HTTP communication  
@@ -48,58 +48,54 @@ Here is a snapshot of the tools and technologies I have worked with throughout m
 
 
 
-## 💡 Academic Projects
+## Academic Projects
 
 ### Web Applications
-- **BikeTourPlus**  
-A stand-alone desktop application built in a team of 6 using **Java** and **JavaFX**. We were given a detailed spec and tasked with creating class diagrams and system design before implementation.  
  
-- **McGillParkingLot**  
+🚙 **[McGillParkingLot](https://github.com/estefaniavazquez/project-group-04)**  
 A web-based system developed by a team of 6 to manage a parking lot accessible by both clients and employees. Built under an Agile methodology with regular sprint reviews and milestones.
 
-🧠 Requirements & Design – Defined and modeled requirements for both design and implementation phases; created use cases and architectural diagrams to guide development.
+- 📐 Requirements – Defined and modeled requirements for both design and implementation phases; created use cases and architectural diagrams to guide development.
 
-🖥️ Tech Stack – Backend built with Java; frontend designed with Vue.js (JavaScript) for an intuitive and responsive UI.
+- 🧩 Tech Stack – Backend built with Java; frontend designed with Vue.js (JavaScript) for an intuitive and responsive UI.
 
-🗃️ Database Integration – Implemented a PostgreSQL persistence layer to manage users, bookings, and space allocation.
+- 🗃 Database Integration – Implemented a PostgreSQL persistence layer to manage users, bookings, and space allocation.
 
-🔁 Testing & CI – Applied TDD principles using JUnit for business logic tests; automated test execution and builds using Gradle.
+- 🕵🏽‍♀️ Testing – Applied TDD principles using JUnit for business logic tests; automated test execution and builds using Gradle.
 
-📂 Version Control & Collaboration – Maintained clean project structure and version history using Git and GitHub, supporting both documentation and collaboration.
+- 🗂️ Version Control – Maintained clean project structure and version history using Git and GitHub, supporting both documentation and collaboration.
 
 
-- **Listful**  
+🛍️ **[Listful](https://github.com/estefaniavazquez/Listful)**  
 A self-directed full-stack project developed in a team of 10 in an Agile environment using 2-week sprints. The goal was to build a collaborative wish list application from the ground up.
 
-🧠 Requirements Engineering – Gathered user requirements and translated them into Gherkin scenarios, then decomposed them into epics, user stories, and tasks using GitHub Projects.
+- 📐 Requirements – Gathered user requirements and translated them into Gherkin scenarios, then decomposed them into epics, user stories, and tasks using GitHub Projects.
 
-🧩 Tech Stack – Backend built with Python; frontend developed in TypeScript using React Native and Redux for state management.
+- 🧩 Tech Stack – Backend built with Python; frontend developed in TypeScript using React Native and Redux for state management.
 
-🔁 Testing & QA – Followed a TDD approach using JUnit for unit tests and Behave for automated behavior-driven tests.
+- 🕵🏽‍♀️ Testing – Followed a TDD approach using JUnit for unit tests and Behave for automated behavior-driven tests.
 
-🛠️ Agile Practices – Practiced agile ceremonies and retrospectives, collaborating closely with teammates to deliver iterative improvements each sprint.
+- 📆 Agile Practices – Practiced agile ceremonies and retrospectives, collaborating closely with teammates to deliver iterative improvements each sprint.
 
-💻 Version Control & Documentation – Used Git and GitHub for source control, issue tracking, and thorough documentation across all project phases.
+- 🗂️ Version Control – Used Git and GitHub for source control, issue tracking, and thorough documentation across all project phases.
 
 
 ### Game Engine
-- **Luminara**  
+👾 **[Luminara](https://github.com/LuminaraEngine/Engine)**  
 Modern games increasingly depend on hardware-accelerated ray tracing, excluding users with older or more modest setups. Our team wanted to challenge this trend by building a game engine that brings physically realistic rendering to all users, minimizing electronic waste and broadening creative access in the game development community. Luminara is a custom-built game engine written in C++, designed to render realistic scenes using software-based ray tracing and a physics simulator. 
 
-Key Features:
+- 🛠️ Core Engine Architecture – Implemented a custom ECS (Entity-Component-System) design pattern to structure the game logic and maximize modularity and performance.
 
-🛠️ Core Engine Architecture – Implemented a custom ECS (Entity-Component-System) design pattern to structure the game logic and maximize modularity and performance.
+- 🌅 Software-based Ray Traced Rendering Pipeline – Developed a real-time, software-based ray tracer capable of simulating realistic lighting and shadows without GPU acceleration.
 
-🌍 Software-based Ray Traced Rendering Pipeline – Developed a real-time, software-based ray tracer capable of simulating realistic lighting and shadows without GPU acceleration.
-
-🧲 Physics Engine – Built and integrated a rigid body physics simulation system, supporting realistic object interactions and movement within the engine. Below is a Cornell Box rendered with Luminara: 
+- 🧲 Physics Engine – Built and integrated a rigid body physics simulation system, supporting realistic object interactions and movement within the engine. Below is a Cornell Box rendered with Luminara: 
 ![Cornell Box](https://github.com/user-attachments/assets/51ac8edc-b925-455d-9284-ea02b1cc6da7)
 
-🔄 System Integration – Combined the physics and rendering systems into a working engine loop. Below is a demo of the physics and rendering systems applied together: 
+🛠️ System Integration – Combined the physics and rendering systems into a working engine loop. Below is a demo of the physics and rendering systems applied together: 
 
 https://github.com/user-attachments/assets/f0ccf177-615c-4104-938c-82a277f51d70
 
-🧪 Testing & Debugging – Employed extensive unit and integration testing to ensure each module’s reliability and correctness under various conditions.
+- 🕵🏽‍♀️ Testing & Debugging – Employed extensive unit and integration testing to ensure each module’s reliability and correctness under various conditions.
 
 🧠 Research-Driven Design – Overcame limited documentation on certain rendering and ECS techniques.
 
@@ -111,7 +107,7 @@ Luminara represents both a technical milestone and a statement of inclusivity in
 
 
 
-## 💼 Internship Experience
+## Internship Experience
 
 - **Rio Tinto** *(Sept – Dec 2023)*  
   I interned as a Software Development Student, contributing to two web apps and an iOS mobile app. My main responsibilities included implementing new client-facing features (e.g., dynamic tables, data import/export, UI enhancements). All applications were deployed via AWS, and I worked across the stack using Python, TypeScript, and React Native.
