@@ -91,15 +91,15 @@ Modern games increasingly depend on hardware-accelerated ray tracing, excluding 
 - 🧲 Physics Engine – Built and integrated a rigid body physics simulation system, supporting realistic object interactions and movement within the engine. Below is a Cornell Box rendered with Luminara: 
 ![Cornell Box](https://github.com/user-attachments/assets/51ac8edc-b925-455d-9284-ea02b1cc6da7)
 
-🛠️ System Integration – Combined the physics and rendering systems into a working engine loop. Below is a demo of the physics and rendering systems applied together: 
+- 🛠️ System Integration – Combined the physics and rendering systems into a working engine loop. Below is a demo of the physics and rendering systems applied together: 
 
 https://github.com/user-attachments/assets/f0ccf177-615c-4104-938c-82a277f51d70
 
 - 🕵🏽‍♀️ Testing & Debugging – Employed extensive unit and integration testing to ensure each module’s reliability and correctness under various conditions.
 
-🧠 Research-Driven Design – Overcame limited documentation on certain rendering and ECS techniques.
+- 🧠 Research-Driven Design – Overcame limited documentation on certain rendering and ECS techniques.
 
-🤝 Team & Workflow – Adopted an agile-inspired development process. The team was split into subgroups focusing on rendering, ECS, and physics, allowing for parallel progress and cross-functional collaboration.
+- 🤝 Team & Workflow – Adopted an agile-inspired development process. The team was split into subgroups focusing on rendering, ECS, and physics, allowing for parallel progress and cross-functional collaboration.
 
 Luminara represents both a technical milestone and a statement of inclusivity in game development—an engine that opens up the power of ray tracing to everyone, regardless of their hardware.
 
